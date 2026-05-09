@@ -1,1 +1,2 @@
-# profile
+After 13 years as a journalist, I am transitioning into data analysis following professional training at John Bryce College in SQL, Python, Power BI, Excel, and AI-based analysis tools. Throughout my journalism career, I worked extensively with data across a wide range of topics, including formal reports, and developed strong research and analytical thinking skills.
+ Just as importantly, I learned how to take complex information and make it clear, relevant, and accessible to non-expert audiences. While I am at the beginning of my formal data analyst career, I bring years of experience in finding meaning in data and communicating insights in a simple, effective way.
